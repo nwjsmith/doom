@@ -13,4 +13,5 @@
   `(solaire-hl-line-face :background ,(modus-themes-get-color-value 'bg-active))
   `(solaire-org-hide-face :background ,(modus-themes-get-color-value 'bg-dim) :foreground ,(modus-themes-get-color-value 'bg-dim))
   `(diff-hl-insert :foreground ,(modus-themes-get-color-value 'bg-added-fringe))
+  `(diff-hl-change :foreground ,(modus-themes-get-color-value 'bg-changed-fringe))
   `(diff-hl-delete :foreground ,(modus-themes-get-color-value 'bg-removed-fringe)))
