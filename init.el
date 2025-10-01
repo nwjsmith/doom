@@ -10,7 +10,6 @@
        (doom +tabs)
        doom-dashboard
        hl-todo
-       indent-guides
        modeline
        modus
        ophints
@@ -53,6 +52,7 @@
        llm
        (lsp +eglot)
        (magit +forge)
+       mise
        pdf
        tree-sitter
 
