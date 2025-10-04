@@ -16,8 +16,8 @@
        (popup +defaults)
        smooth-scroll
        (vc-gutter +pretty)
-       vi-tilde-fringe
        (workspaces +tabs)
+       zen
 
        :editor
        (evil +everywhere)
@@ -40,7 +40,6 @@
 
        :checkers
        syntax
-       spell
 
        :tools
        debugger
