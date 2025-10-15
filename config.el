@@ -12,6 +12,8 @@
       display-line-numbers-type t
       projectile-project-search-path '(("~/Code" . 2)))
 
+(setq shell-file-name (executable-find "bash"))
+
 (after! writeroom-mode
   (add-hook! 'writeroom-mode-hook :append
     (defun +zen-toggle-line-numbers-h ()
