@@ -53,6 +53,7 @@
        (magit +forge)
        mise
        pdf
+       (terraform +lsp)
        tree-sitter
 
        :os
