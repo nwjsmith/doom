@@ -52,6 +52,7 @@
        (lsp +eglot)
        (magit +forge)
        mise
+       jj
        pdf
        (terraform +lsp)
        tree-sitter
